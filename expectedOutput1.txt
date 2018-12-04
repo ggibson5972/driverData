@@ -1,0 +1,4 @@
+Frodo: 50.0 miles @ 20.0 mph
+Legolas: 20.0 miles @ 10.0 mph
+Arwen: 0 miles
+Gollum: 0 miles

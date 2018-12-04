@@ -1,0 +1,5 @@
+Leia: 1440.0 miles @ 60.0 mph
+Luke: 350.0 miles @ 63.0 mph
+Anakin: 55.0 miles @ 55.0 mph
+Lando: 1.0 miles @ 30.0 mph
+JarJar: 0 miles
