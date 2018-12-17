@@ -16,4 +16,4 @@ The problem solving process is as follows:
 12) If command is unknown, delete driver
 13) Sort list of drivers by total distance
 
-A noteworthy decision in this process was choosing to implement a nested dictionary. To keep each driver's data with that driver, a dictionary was made with the driver's name as the key and his/her data in the value--stored with a label as the key and the value being the numeric value associated with that label (i.e. {'Alex', {"total_distance": 42, "total_time": 1.25, "avg_speed": 34}}).
+A noteworthy decision in this process was choosing to implement a nested dictionary. To keep each driver's data with that driver, a dictionary was made with the driver's name as the key and his/her data in the value--stored with a label as the key and the value being the numeric value associated with that label (i.e. {'Alex', {"total_distance": 42, "total_time": 1.25, "avg_speed": 34}}). The dictionary was a good option because it allowed for making the driver an object. The dictionary also makes keeping track of each object's different characteristics and working with the values easy.
